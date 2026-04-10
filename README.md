@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work on AI tooling and low-latency distributed systems for bond and credit pricing
+I work on AI tooling and low-latency distributed systems for bond and CDX pricing
 
 <!--
 **Rubyywang/rubyywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
